@@ -68,14 +68,6 @@ streamlit run app.py
 
 ---
 
-## 🚧 Known Limitations
-
-* **Model overfits to dominant classes**
-* **May misclassify visually similar objects** (e.g. bottle → carton)
-* Detection quality drops for low-resolution or cluttered backgrounds
-
----
-
 ## 🤝 Acknowledgements
 
 * [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
