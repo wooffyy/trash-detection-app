@@ -11,8 +11,7 @@ A lightweight waste classification and detection app built using **YOLOv8m** and
 | Model          | YOLOv8m (Ultralytics)         |
 | Epochs         | 150                           |
 | Input Size     | 1024 x 1024                   |
-| Dataset Source | Roboflow & Kaggle Dataset     |
-| Trained On     | Google Colab (T4) + Local GPU |
+| Dataset Source | Kaggle Dataset                |
 
 ### 🔍 Performance Summary
 
@@ -77,20 +76,10 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment (Streamlit Cloud)
-
-This app can be deployed instantly via Streamlit Cloud:
-
-1. Push your code to GitHub
-2. Connect your GitHub repo to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Set main file as `app.py`
-
----
-
 ## 🤝 Acknowledgements
 
 * [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 * [TACO Dataset](https://tacodataset.org/)
 * [Roboflow Augmentation Platform](https://roboflow.com/)
 
-> Created with ❤️ by [@wooffyy](https://github.com/wooffyy)
+
