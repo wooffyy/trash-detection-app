@@ -17,7 +17,7 @@ A lightweight waste classification and detection app built using **YOLOv8m** and
 
 | Metric           | Value  |
 | ---------------- | ------ |
-| mAP\@0.5         | \~0.57 |
+| mAP\@0.5         | \~0.48 |
 | mAP\@0.5:0.95    | \~0.34 |
 | Best Epoch       | \~112  |
 | Detected Classes | 10     |
